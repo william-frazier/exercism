@@ -1,0 +1,9 @@
+[
+  "hangman_test.py::HangmanTests::test_after_10_failures_the_game_is_over",
+  "hangman_test.py::HangmanTests::test_feeding_a_correct_letter_removes_underscores",
+  "hangman_test.py::HangmanTests::test_feeding_a_correct_letter_twice_counts_as_a_failure",
+  "hangman_test.py::HangmanTests::test_getting_all_the_letters_right_makes_for_a_win",
+  "hangman_test.py::HangmanTests::test_initially_9_failures_are_allowed",
+  "hangman_test.py::HangmanTests::test_initially_no_letters_are_guessed",
+  "hangman_test.py::HangmanTests::test_winning_on_last_guess_still_counts_as_a_win"
+]

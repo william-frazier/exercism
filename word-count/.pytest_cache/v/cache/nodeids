@@ -1,0 +1,18 @@
+[
+  "word_count_test.py::WordCountTest::test_alternating_word_separators_not_detected_as_a_word",
+  "word_count_test.py::WordCountTest::test_count_one_of_each_word",
+  "word_count_test.py::WordCountTest::test_count_one_word",
+  "word_count_test.py::WordCountTest::test_handles_cramped_lists",
+  "word_count_test.py::WordCountTest::test_handles_expanded_lists",
+  "word_count_test.py::WordCountTest::test_ignore_punctuation",
+  "word_count_test.py::WordCountTest::test_include_numbers",
+  "word_count_test.py::WordCountTest::test_multiple_apostrophes_ignored",
+  "word_count_test.py::WordCountTest::test_multiple_occurrences_of_a_word",
+  "word_count_test.py::WordCountTest::test_multiple_spaces_not_detected_as_a_word",
+  "word_count_test.py::WordCountTest::test_non_alphanumeric",
+  "word_count_test.py::WordCountTest::test_normalize_case",
+  "word_count_test.py::WordCountTest::test_substrings_from_the_beginning",
+  "word_count_test.py::WordCountTest::test_tabs",
+  "word_count_test.py::WordCountTest::test_with_apostrophes",
+  "word_count_test.py::WordCountTest::test_with_quotations"
+]
